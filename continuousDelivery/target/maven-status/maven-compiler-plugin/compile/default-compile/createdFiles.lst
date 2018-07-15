@@ -1,0 +1,9 @@
+com\fr\training\data\initialization\DataImporter.class
+com\fr\training\controller\ErrorController.class
+com\fr\training\controller\HelloController.class
+com\fr\training\entities\Game.class
+com\fr\training\main\App.class
+com\fr\training\main\AppConfig.class
+com\fr\training\data\initialization\DataLoader.class
+com\fr\training\data\mongodb\GameRepository.class
+com\fr\training\controller\LoadDataController.class
